@@ -19,7 +19,8 @@ I'm a back end developper/ game developper, I love creating tools using python t
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-![Static Badge](https://img.shields.io/badge/linux-black?logo=linux&logoColor=%23000&labelColor=%23fff)
+![linux](https://img.shields.io/badge/linux-black?logo=linux&logoColor=%23fff&labelColor=blue)
+
 
 
 
