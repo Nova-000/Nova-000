@@ -15,7 +15,7 @@ I'm a back end developper/ game developper, I love creating tools using python t
 
 ![git](https://img.shields.io/badge/git-black?logo=git&logoColor=%23fff&labelColor=blue)
 ![django](https://img.shields.io/badge/django-black?logo=django&logoColor=%23fff&labelColor=blue)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![github](https://img.shields.io/badge/github-black?logo=github&logoColor=%23fff&labelColor=blue)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC) 
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
