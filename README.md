@@ -14,6 +14,7 @@ I'm a back end developper/ game developper, I love creating tools using python t
 💻 **Languages and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![django](https://img.shields.io/badge/django-black?logo=django&logoColor=%23fff&labelColor=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC) 
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
