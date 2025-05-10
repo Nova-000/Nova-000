@@ -24,7 +24,7 @@ I'm a back end developper/ game developper, I love to create tools using python 
 
 
 
-Skills: C /C++ /C#/ Python /JS / HTML / CSS /Django / Fastapi / Unity / Unreal Engine (blue prints & C++)
+Skills: C /C++ /C#/ Python / HTML / CSS /Django / Unreal Engine (blue prints)
 
 
 
