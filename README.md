@@ -8,7 +8,7 @@
 </p>
 
 ## Hi there 👋, my name is Nova
-I'm a back end developper/ game developper, I love creating tools using python too
+I'm a developper/ game developper, I love creating tools using python too
 
 
 💻 **Languages and Tools:** 🛠️<br>
