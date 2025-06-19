@@ -7,7 +7,7 @@
   <img src="https://github.com/ArturDev00/ArturDev00/blob/main/Leet-img.png" width=180px/>
 </p>
 
-## Hi there 👋, my name is Artur
+## Hi there 👋, my name is Nova
 I'm a back end developper/ game developper, I love creating tools using python too
 
 
